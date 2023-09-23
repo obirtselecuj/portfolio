@@ -158,7 +158,7 @@ export const resumeData = {
       id: 1,
       title: "College",
       course: "BEST PROGRAMMER",
-      description: "The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture.",
+      description: "",
       result: '2018 - 2019',
       subTitle: 'Bachelor of Science in Information Technology',
       school: 'Sibonga Community College',

@@ -24,7 +24,7 @@ const ResumeCard = ({ item: { title, description, subTitle, result, course, addr
         <p className="text-sm md:text-base font-medium text-gray-400 group-hover:text-gray-300 duration-300">
           {description}
         </p>
-        <div className='w-[850px]'>
+        <div className='w-full'>
           <p className='text-sm md:text-base font-medium text-gray-400 group-hover:text-gray-300 duration-300'>{school}</p>
           <p className='text-sm md:text-base font-medium text-gray-400 group-hover:text-gray-300 duration-300'>{address}</p>
         </div>
